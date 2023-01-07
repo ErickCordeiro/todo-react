@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Ubuntu;
+}
+
+body{
+    background-color: #191919;
+    color: #f2f2f2;
+    min-height: 100vh;
+}
+
+button{
+    cursor: pointer;
+}
